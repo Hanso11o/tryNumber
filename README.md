@@ -1,4 +1,4 @@
 # tryNumber
-A simple CLI game.
+Simple game.
 Guess the number.
 Written in Golang.
